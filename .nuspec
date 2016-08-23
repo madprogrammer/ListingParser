@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>ListingParser</title>
+    <authors>Sergey Anufrienko</authors>
+    <owners>Sergey Anufrienko</owners>
+    <licenseUrl>https://opensource.org/licenses/ms-pl.html</licenseUrl>
+    <projectUrl>https://github.com/madprogrammer/ListingParser</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Parse `ls -lR` output on Linux for easy enumeration and processing. Inspired by Perl's File::Listing module.</description>
+    <releaseNotes></releaseNotes>
+    <tags>parser</tags>
+  </metadata>
+</package>
